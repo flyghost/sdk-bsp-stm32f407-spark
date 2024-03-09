@@ -6,6 +6,7 @@
     ],
     "settings": {
         "files.exclude": {
+            "rt-thread/components/net/lwip/lwip-2.1.2/test": true,
             "projects/01_kernel": true,
             "projects/02_basic_ir": true,
             "projects/02_basic_irq_beep": true,
@@ -45,6 +46,7 @@
             "projects/07_module_ws2812_led": true,
         },
         "search.exclude": {
+            "rt-thread/components/net/lwip/lwip-2.1.2/test": true,
             "projects/01_kernel": true,
             "projects/02_basic_ir": true,
             "projects/02_basic_irq_beep": true,
